@@ -1,120 +1,22 @@
 ---
 layout: default
 ---
-The code I have used may be found [here (Jupyter Notebook file)](./CRISP-DM Process.ipynb).
+What's next in the world of tech? If you're looking for your first job in a technology-related field, or looking to advance in your field, you likely somewhere in the region of have 0.5 of an eye to one full Sauron trained on anticipating trends in tech. 
 
-There should be whitespace between paragraphs.
+Everyone has advice to impart, but only with data do we have the possibility of wisdom. To this end, it pays to examine data gathered by Stack Overflow, which carries out an annual self-report survey on its userbase. It has been doing so since 2011, and publishes its data [here](https://insights.stackoverflow.com/survey/). They ask novel and creative questions each year (turns out more people like Star Wars than Star Trek, which is absolutely fine by me, not a problem, not bothered in the slightest, some people have no taste, whatever), but there are some common threads that can be pulled out over time, and that's what I have done.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Here is what I've found.
 
-# Header 1
+### Will There Still Be Space For the Little Guy?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![Organisation Size](./orgsize.png)
 
-## Header 2
+### Will the (Anglophone) Tech World Still Be US-Dominated?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+![Country](./country.png)
 
-### Header 3
+### Will the (Anglophone) Tech World Still Be US-Dominated?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+![Languages: Used Over Previous Year](./langused.png)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![Languages: Intending to Learn Next Year](./langwant.png)
