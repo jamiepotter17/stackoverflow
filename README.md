@@ -12,11 +12,11 @@
 Code in the Jupyter Notebook file 'CRISP-DM Process.ipynb' should run on a standard Anaconda distribution of Python 3.*.
 
 However, it ran without errors on this specific installation if a failsafe is needed:
-python 3.6.13
-jupyter 1.0.0
-matplotlib 3.3.4
-numpy 1.17.0
-pandas 1.1.5
+* python 3.6.13
+* jupyter 1.0.0
+* matplotlib 3.3.4
+* numpy 1.17.0
+* pandas 1.1.5
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -34,6 +34,7 @@ For this project, I was interested in using Stack Overflow survey data longitudi
 * .gitignore and ./.ipynb_checkpoints - github files.
 * README.md - this file.
 * CRISP-DM Process.ipynb - the Jupyter Notebook file used in the exploration and analysis of the Stack Overflow data.
+* StackOverflowData.zip - contains the relevant .csv files used by the Jupyter Notebook file.
 
 ## Results<a name="results"></a>
 
