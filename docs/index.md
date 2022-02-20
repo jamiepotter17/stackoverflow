@@ -3,7 +3,7 @@ layout: default
 ---
 # Introduction
 
-What's next in the world of tech? If you're looking for your first job in a technology-related field, or looking to advance in your field, you likely somewhere in the region of have 0.5 of an eye to one 1.0 eye-of-Sauron trained on anticipating trends in tech.
+What's next in the world of tech? If you're looking for your first job in a technology-related field, or looking to advance in your field, you likely somewhere in the region of have 0.5 of an eye to 1.0 eye-of-Sauron trained on anticipating trends in tech.
 
 ![Career Enhancement Heuristic](./eye_of_sauron.jpg)
 
