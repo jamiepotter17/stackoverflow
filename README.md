@@ -1,3 +1,4 @@
+Please view the blog at [https://jamiepotter17.github.io/stackoverflow/](https://jamiepotter17.github.io/stackoverflow/)
 
 ### Table of Contents
 
